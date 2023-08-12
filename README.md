@@ -2,7 +2,7 @@
 
 Personal Nest.js App project. Simple instant messaging service with base functionality.
 
-> See also related front-end app: [messenger-client](https://github/).
+> See also related front-end app: [messenger-client](https://github.com/Mezozzoi/messenger-client).
 
 ## Scripts
 
